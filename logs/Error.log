@@ -1,0 +1,16 @@
+2022-10-19 14:42:29 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Starting DemoSpringBootLoggingApplication using Java 11.0.12 on ICS-LAP-6766 with PID 10512 (C:\Users\adityara\Downloads\Infinite\Infinite\target\classes started by adityara in C:\Users\adityara\Downloads\Infinite\Infinite)
+2022-10-19 14:42:29 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-19 14:42:30 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Started DemoSpringBootLoggingApplication in 1.16 seconds (JVM running for 1.833)
+2022-10-19 14:42:30 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Customer logged in successfully!!
+2022-10-19 14:44:59 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Starting DemoSpringBootLoggingApplication using Java 11.0.12 on ICS-LAP-6766 with PID 22272 (C:\Users\adityara\Downloads\Infinite\Infinite\target\classes started by adityara in C:\Users\adityara\Downloads\Infinite\Infinite)
+2022-10-19 14:44:59 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-19 14:45:00 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Started DemoSpringBootLoggingApplication in 1.098 seconds (JVM running for 1.743)
+2022-10-19 14:45:00 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Customer logged in successfully!!
+2022-10-19 14:51:23 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Starting DemoSpringBootLoggingApplication using Java 11.0.12 on ICS-LAP-6766 with PID 16796 (C:\Users\adityara\Downloads\Infinite\Infinite\target\classes started by adityara in C:\Users\adityara\Downloads\Infinite\Infinite)
+2022-10-19 14:51:23 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-19 14:51:24 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Started DemoSpringBootLoggingApplication in 1.098 seconds (JVM running for 1.76)
+2022-10-19 14:51:24 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Customer logged in successfully!!
+2022-10-19 14:54:53 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Starting DemoSpringBootLoggingApplication using Java 11.0.12 on ICS-LAP-6766 with PID 21724 (C:\Users\adityara\Downloads\Infinite\Infinite\target\classes started by adityara in C:\Users\adityara\Downloads\Infinite\Infinite)
+2022-10-19 14:54:53 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-19 14:54:53 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Started DemoSpringBootLoggingApplication in 1.057 seconds (JVM running for 1.666)
+2022-10-19 14:54:53 PM [main] INFO  com.example.Infinite.DemoSpringBootLoggingApplication - Customer logged in successfully!!
